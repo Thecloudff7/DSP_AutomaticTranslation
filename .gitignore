@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/translationcore
+/translationcore/bin/Debug/netcoreapp3.1
+/translationcore/obj
